@@ -1,4 +1,5 @@
 info: 
   foo: dev
   profile: dev
-neo.hello: hello i am dev update
+neo:
+    hello: hello i am dev update
