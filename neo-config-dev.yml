@@ -1,11 +1,5 @@
 neo:
-  hello: hello i am dev update3333
+  hello: hello i am dev update55555
 info: 
   foo: dev
-<<<<<<< HEAD
-  profile: dev 
-=======
-  profile: dev
-neo:
-    hello: hello i am dev update22222
->>>>>>> 4307edd5cbc6068420b08aeba5ebc90ec16424a5
+
